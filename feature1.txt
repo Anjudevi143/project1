@@ -1,0 +1,4 @@
+from django.http import httpresponse
+
+def home(request):
+return render(request,"home.html")
