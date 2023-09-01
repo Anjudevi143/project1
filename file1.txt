@@ -1,0 +1,15 @@
+{% loadstatic %}
+<html>
+<head>
+<style>
+</style>
+</head>
+<body>
+<h1>course1</h1>
+<h1>course2</h1>
+<h1>course3</h1>
+<h1>course4</h1>
+<h1>course5</h1>
+<a href='{% static "love.jpg" %}'></a>
+</body>
+</html>
